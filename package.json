@@ -4,7 +4,11 @@
   "description": "simple movie detail site written using react and redux",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "concurrently \"webpack --watch --config webpack.config.js\" \"webpack-dev-server\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azemetre/react-redux-movie"
   },
   "keywords": [
     "react",
