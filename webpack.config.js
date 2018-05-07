@@ -1,5 +1,5 @@
-const path = require('path');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const path = require('path')
+const ExtractTextPlugin = require('extract-text-webpack-plugin')
 
 module.exports = {
   entry: {
@@ -21,14 +21,15 @@ module.exports = {
       test: /\.js$/,
       query: {
         presets: ['react', 'es2015', 'stage-0']
-      }, {
-        loader: 'json-loader',
-        test: /\.json$/
-      }, {
-        loader: ExtractTextPlugin.extract('style', 'css?modules&localIdentName=[local]__[hash:base64:5]'),
-        test: /\.css$/,
-        exclude: /node_modules/
-      }]
+      }
+    }, {
+      loader: 'json-loader',
+      test: /\.json$/
+    }, {
+      loader: ExtractTextPlugin.extract('style', 'css?modules&localIdentName=[local]__[hash:base64:5]'),
+      test: /\.css$/,
+      exclude: /node_modules/
+    }]
   },
   resolve: {
     modulesDirectories: [
