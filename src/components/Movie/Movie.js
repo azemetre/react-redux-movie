@@ -40,6 +40,7 @@ class Movie extends React.Component {
               </div>
             ))}
           </div>
+          <div className={styles.synopsis}>{movie.synopsis}</div>
         </div>
         <Link className={styles.closeButton} to="/movies"> ⇐ </Link>
       </div>
