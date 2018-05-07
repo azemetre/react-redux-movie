@@ -1,0 +1,289 @@
+[
+  {
+    "boxoffice": 3.5,
+    "cover": "../images/8_and_a_half.jpg",
+    "starring": [
+      {
+        "name": "Marcello Mastroianni"
+      },
+      {
+        "name": "Claudia Cardinale"
+      },
+      {
+        "name": "Anouk Aimée"
+      },
+      {
+        "name": "Sandra Milo"
+      },
+      {
+        "name": "Rossella Falk"
+      }
+    ],
+    "title": "8½",
+    "year": "1963",
+    "synopsis": "A harried movie director retreats into his memories and fantasies."
+  },
+  {
+    "boxoffice": 2,
+    "cover": "../images/12_angry_men.jpg",
+    "starring": [
+      {
+        "name": "Henry Fonda"
+      },
+      {
+        "name": "Lee J. Cobb"
+      },
+      {
+        "name": "Ed Begley"
+      },
+      {
+        "name": "E. G. Marshall"
+      },
+      {
+        "name": "Jack Warden"
+      }
+    ],
+    "title": "12 Angry Men",
+    "year": "1957",
+    "synopsis": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence."
+  },
+  {
+    "boxoffice": 373.5,
+    "cover": "../images/toy_story.jpg",
+    "starring": [
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Tim Allen"
+      },
+      {
+        "name": "Don Rickles"
+      },
+      {
+        "name": "Jim Varney"
+      },
+      {
+        "name": "Annie Potts"
+      }
+    ],
+    "title": "Toy Story",
+    "year": "1995"
+  },
+  {
+    "boxoffice": 382.2,
+    "cover": "../images/back_to_the_future.png",
+    "starring": [
+      {
+        "name": "Michael J. Fox"
+      },
+      {
+        "name": "Christopher Lloyd"
+      },
+      {
+        "name": "Lea Thompson"
+      },
+      {
+        "name": "Crispin Glover"
+      }
+    ],
+    "title": "Back to the Future",
+    "year": "1985",
+    "synopsis": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
+  },
+  {
+    "boxoffice": 36.8,
+    "cover": "../images/rear_window.jpg",
+    "starring": [
+      {
+        "name": "James Stewart"
+      },
+      {
+        "name": "Grace Kelly"
+      },
+      {
+        "name": "Wendell Corey"
+      },
+      {
+        "name": "Thelma Ritter"
+      },
+      {
+        "name": "Raymond Burr"
+      }
+    ],
+    "title": "Rear Window",
+    "year": "1954",
+    "synopsis": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder."
+  },
+  {
+    "boxoffice": 72,
+    "cover": "../images/oh_brother_where_art_thou.jpg",
+    "starring": [
+      {
+        "name": "George Clooney"
+      },
+      {
+        "name": "John Turturro"
+      },
+      {
+        "name": "Tim Blake Nelson"
+      },
+      {
+        "name": "Charles Durning"
+      },
+      {
+        "name": "Michael Badalucco"
+      },
+      {
+        "name": "John Goodman"
+      },
+      {
+        "name": "Holly Hunter"
+      }
+    ],
+    "title": "O Brother, Where Art Thou?",
+    "year": "2000",
+    "synopsis": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them."
+  },
+  {
+    "boxoffice": 264.1,
+    "cover": "../images/the_truman_show.jpg",
+    "starring": [
+      {
+        "name": "Jim Carrey"
+      },
+      {
+        "name": "Laura Linney"
+      },
+      {
+        "name": "Noah Emmerich"
+      },
+      {
+        "name": "Natascha McElhone"
+      },
+      {
+        "name": "Holland Taylor"
+      },
+      {
+        "name": "Ed Harris"
+      }
+    ],
+    "title": "The Truman Show",
+    "year": "1998",
+    "synopsis": "An insurance salesman/adjuster discovers his entire life is actually a television show."
+  },
+  {
+    "boxoffice": 14.5,
+    "cover": "../images/a_fistful_of_dollars.jpg",
+    "starring": [
+      {
+        "name": "Clint Eastwood"
+      },
+      {
+        "name": "Marianne Koch"
+      },
+      {
+        "name": "Gian Maria Volonte"
+      },
+      {
+        "name": "Wolfgang Lukschy"
+      },
+      {
+        "name": "Sieghardt Rupp"
+      },
+      {
+        "name": "Joseph Egger"
+      }
+    ],
+    "title": "A Fistful of Dollars",
+    "year": "1964",
+    "synopsis": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge."
+  },
+  {
+    "boxoffice": 183.3,
+    "cover": "../images/aliens.jpg",
+    "starring": [
+      {
+        "name": "Sigourney Weaver"
+      },
+      {
+        "name": "Michael Biehn"
+      },
+      {
+        "name": "Carrie Henn"
+      },
+      {
+        "name": "Lance Henriksen"
+      },
+      {
+        "name": "Bill Paxton"
+      }
+    ],
+    "title": "Aliens",
+    "year": "1986",
+    "synopsis": "Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?"
+  },
+  {
+    "boxoffice": 159.4,
+    "cover": "../images/princess_mononoke.jpg",
+    "starring": [
+      {
+        "name": "Yōji Matsuda"
+      },
+      {
+        "name": "Yuriko Ishida"
+      },
+      {
+        "name": "Yūko Tanaka"
+      },
+      {
+        "name": "Kaoru Kobayashi"
+      },
+      {
+        "name": "Masahiko Nishimura"
+      }
+    ],
+    "title": "Princess Mononoke",
+    "year": "1997",
+    "synopsis": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime."
+  },
+  {
+    "boxoffice": 19.6,
+    "cover": "../images/the_thing.jpg",
+    "starring": [
+      {
+        "name": "Kurt Russell"
+      },
+      {
+        "name": "Wilford Brimley"
+      },
+      {
+        "name": "T.K. Carter"
+      }
+    ],
+    "title": "The Thing",
+    "year": "1982",
+    "synopsis": "A crew in Antarctica finds a neighboring camp destroyed and its crew dead. Whatever killed them is nowhere to be found, unless it's hidden in plain sight."
+  },
+  {
+    "boxoffice": 33.8,
+    "cover": "../images/blade_runner.jpg",
+    "starring": [
+      {
+        "name": "Harrison Ford"
+      },
+      {
+        "name": "Rutger Hauer"
+      },
+      {
+        "name": "Sean Young"
+      },
+      {
+        "name": "Edward James Olmos"
+      }
+    ],
+    "title": "Blade Runner",
+    "year": "1982",
+    "synopsis": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator."
+  }
+]
