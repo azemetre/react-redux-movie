@@ -4,13 +4,11 @@ const { Link } = require('react-router');
 
 const { fetchMoviesActionCreator } = require('../../modules/movies');
 const styles = require('./movies.css');
-
-// implement local api in future
-const movies = require('../../movies.json');
+const url = `http://localhost:3000`;
 
 class Movies extends React.Component {
   componentDidMount() {
-    fetch('/src/movies.json')
+    fetch(`${url}/movies`)
       .then(res => res.json())
       .then((movies) => {
         this.props.fetchMovies(movies);
