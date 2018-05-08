@@ -24,7 +24,7 @@ class Movies extends React.Component {
 
     return (
       <div className={styles.movies}>
-        <div className={params.id ? styles.listHidden : styles.list}>
+        <section className={params.id ? styles.listHidden : styles.list}>
           {movies.map((movie, index) => (
             <Link
               key={index}
@@ -33,7 +33,7 @@ class Movies extends React.Component {
                 style={{backgroundImage: `url(${movie.cover})`}} />
             </Link>
           ))}
-        </div>
+        </section>
         {children}
       </div>
     );
