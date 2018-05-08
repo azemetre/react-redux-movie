@@ -14,7 +14,20 @@ module.exports = {
   },
   target: 'web',
   module: {
-    loaders: [{
+    rules: [
+      {
+        test: /\.js|jsx$/,
+        exclude: /node_modules/,
+        loader: ["babel-loader"],
+      },
+      {
+        test: /\.js|jsx$/,
+        exclude: /node_modules/,
+        loader: ["babel-loader", "eslint-loader"],
+      },
+    ],
+    loaders: [
+    {
       loader: 'babel-loader',
       include: [path.resolve(__dirname, 'src')],
       exclude: /node_modules/,
@@ -25,6 +38,9 @@ module.exports = {
     }, {
       loader: 'json-loader',
       test: /\.json$/
+    }, {
+      loader: 'eslint-loader',
+      test: /\.js$/
     }, {
       loader: ExtractTextPlugin.extract('style', 'css?modules&localIdentName=[local]__[hash:base64:5]'),
       test: /\.css$/,
