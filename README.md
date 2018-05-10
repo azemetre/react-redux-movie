@@ -38,9 +38,13 @@ There were some issues between using the correct versions of packages, and some 
 #### Integration
 Basic integration test checking the GET request for the movies endpoint. Joi was used to verify if the properties were correct.
 
+Use the following command to run the integration test: `npm run test:api`
+
 #### E2E
 Two test cases were created to verify user actions (mapping cases to user stories in the planning process). Verifying that Ronald, a user, would like to view the synopsis for `12 Angry Men` and the release date for `The Truman Show`.
 
+Use the following command to run the E2E tests: `npm run test:e2e`
+
 In the future E2E tests can easily be isolated into a docker container and run real browsers (read not headless) using XVFB to decrease test execution time (one of the methods used by paid services like [Cypress.io](https://www.cypress.io/)) to minimize build times in CI/CD practices.
 
-I have a personal preference to using E2E tests over snapshot tests due to snapshots not being a real representative of how different browsers implement and render DOM elements along with varying specification implementations between Firefox, Chrome, Edge, and Safari. Snapshot testing seems more akin to static analysis of the frontend world, but not a thorough method of testing functionality when not relying on mocks + stubs.
+I have a personal preference to using E2E tests over snapshot tests due to snapshots not being a real representation of how different browsers implement and render DOM elements along with varying specification implementations between Firefox, Chrome, Edge, and Safari. Snapshot testing seems more akin to static analysis of the frontend world, but not a thorough method of testing functionality.
