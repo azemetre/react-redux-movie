@@ -2,7 +2,7 @@ const { Builder } = require('selenium-webdriver');
 const chai = require('chai');
 
 const expect = chai.expect;
-const MoviesPO = require('./../page-object/movies');
+const MoviesPO = require('./page-object/movies');
 
 describe('React Redux Movies - Verifying Movie User Stories', function() {
   let driver;

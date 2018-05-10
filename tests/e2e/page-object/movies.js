@@ -5,10 +5,6 @@ class Movies {
     this.movieSection = this.driver.findElement({
       css: 'section.list__M5T1N'
     });
-
-    this.movieSectionHidden = this.driver.findElement({
-      css: 'section.listHidden__1iV9-'
-    });
   }
 
   fromMoviesSelectMovie(num) {
