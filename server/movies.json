@@ -1,5 +1,6 @@
 [
   {
+    "movieId": 1,
     "boxoffice": 3.5,
     "cover": "../images/8_and_a_half.jpg",
     "starring": [
@@ -20,10 +21,11 @@
       }
     ],
     "title": "8½",
-    "year": "1963",
+    "year": 1963,
     "synopsis": "A harried movie director retreats into his memories and fantasies."
   },
   {
+    "movieId": 2,
     "boxoffice": 2,
     "cover": "../images/12_angry_men.jpg",
     "starring": [
@@ -44,10 +46,11 @@
       }
     ],
     "title": "12 Angry Men",
-    "year": "1957",
+    "year": 1957,
     "synopsis": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence."
   },
   {
+    "movieId": 3,
     "boxoffice": 373.5,
     "cover": "../images/toy_story.jpg",
     "starring": [
@@ -68,10 +71,11 @@
       }
     ],
     "title": "Toy Story",
-    "year": "1995",
+    "year": 1995,
     "synopsis": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room."
   },
   {
+    "movieId": 4,
     "boxoffice": 382.2,
     "cover": "../images/back_to_the_future.png",
     "starring": [
@@ -89,10 +93,11 @@
       }
     ],
     "title": "Back to the Future",
-    "year": "1985",
+    "year": 1985,
     "synopsis": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
   },
   {
+    "movieId": 5,
     "boxoffice": 36.8,
     "cover": "../images/rear_window.jpg",
     "starring": [
@@ -113,10 +118,11 @@
       }
     ],
     "title": "Rear Window",
-    "year": "1954",
+    "year": 1954,
     "synopsis": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder."
   },
   {
+    "movieId": 6,
     "boxoffice": 72,
     "cover": "../images/oh_brother_where_art_thou.jpg",
     "starring": [
@@ -143,10 +149,11 @@
       }
     ],
     "title": "O Brother, Where Art Thou?",
-    "year": "2000",
+    "year": 2000,
     "synopsis": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them."
   },
   {
+    "movieId": 7,
     "boxoffice": 264.1,
     "cover": "../images/the_truman_show.jpg",
     "starring": [
@@ -170,10 +177,11 @@
       }
     ],
     "title": "The Truman Show",
-    "year": "1998",
+    "year": 1998,
     "synopsis": "An insurance salesman/adjuster discovers his entire life is actually a television show."
   },
   {
+    "movieId": 8,
     "boxoffice": 14.5,
     "cover": "../images/a_fistful_of_dollars.jpg",
     "starring": [
@@ -197,10 +205,11 @@
       }
     ],
     "title": "A Fistful of Dollars",
-    "year": "1964",
+    "year": 1964,
     "synopsis": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge."
   },
   {
+    "movieId": 9,
     "boxoffice": 183.3,
     "cover": "../images/aliens.jpg",
     "starring": [
@@ -221,10 +230,11 @@
       }
     ],
     "title": "Aliens",
-    "year": "1986",
+    "year": 1986,
     "synopsis": "Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?"
   },
   {
+    "movieId": 10,
     "boxoffice": 159.4,
     "cover": "../images/princess_mononoke.jpg",
     "starring": [
@@ -245,10 +255,11 @@
       }
     ],
     "title": "Princess Mononoke",
-    "year": "1997",
+    "year": 1997,
     "synopsis": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime."
   },
   {
+    "movieId": 11,
     "boxoffice": 19.6,
     "cover": "../images/the_thing.jpg",
     "starring": [
@@ -263,10 +274,11 @@
       }
     ],
     "title": "The Thing",
-    "year": "1982",
+    "year": 1982,
     "synopsis": "A crew in Antarctica finds a neighboring camp destroyed and its crew dead. Whatever killed them is nowhere to be found, unless it's hidden in plain sight."
   },
   {
+    "movieId": 12,
     "boxoffice": 33.8,
     "cover": "../images/blade_runner.jpg",
     "starring": [
@@ -284,7 +296,7 @@
       }
     ],
     "title": "Blade Runner",
-    "year": "1982",
+    "year": 1982,
     "synopsis": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator."
   }
 ]
